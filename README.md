@@ -7,4 +7,4 @@
   - feature 2
   - feature 3
 
-@copy;2025
+@copy;2025 - seb
